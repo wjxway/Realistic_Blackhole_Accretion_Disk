@@ -12,4 +12,4 @@ Where the accretion disk is continuous.
 
 **Blackhole Accretion Disk.nb**: This file is older and works for Schwarzchild blackholes exclusively. It generates something like this:
 ![Schwarzchild blackhole](https://github.com/wjxway/image-storage/blob/master/With%20All%20Effects.png?raw=true)
-Where accretion disk is composed using lines, and the length of the line reflects the visual speed of the object.
+Where accretion disk is composed using lines, and the length of the line reflects the visual speed of the object. This version can be used to generate videos, and the two movies in the folder is generated using this code.
